@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.crumbs {
+  top: 0;
+  left: 0;
+  height: 52%;
+  width: 122%;
+  margin-top: 28px;
+  margin-left: 13%;
+  position: fixed;
+}
+
+.gridbox {
+  margin-left: 13% ;
+  width: 86%;
+  margin-top: 1%;
+}
+
+.skeleton {
+  margin-left: 24% ;
+  margin-top: 1%;
+}
+
+.scrollable-grid {
+  height: 420px; /* You can adjust the height as needed */
+  overflow-y: auto;
+}
